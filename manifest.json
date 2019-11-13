@@ -4,33 +4,33 @@ start_url	"https://bloggerblitar.com/"
 display	"standalone"
 background_color	"#fff"
 theme_color	"#C51162"
-description	"Blog yang ditampilkan hanya text saja, tetapi di postingan bisa ditambah image dan video Youtube."
+description	"Blog yang membahas SEO, Youtube, WhatsApp, Kartu GSM, Karir, dan Kesehatan."
 icons	
 0	
-src	"https://1.bp.blogspot.com/-rd1wnQCzf5U/Xcld3gsHh-I/AAAAAAAAAJ0/p8TItqKFfkk0xJ_vTPeNJr7Im7jSzKYWgCLcBGAsYHQ/s1600/48x48.png"
+src	"https://1.bp.blogspot.com/-rd1wnQCzf5U/Xcld3gsHh-I/AAAAAAAAAJ0/p8TItqKFfkk0xJ_vTPeNJr7Im7jSzKYWgCLcBGAsYHQ/s48/48x48.png"
 sizes	"48x48"
 type	"image/png"
 1	
-src	"https://1.bp.blogspot.com/-lxdtafg_AcU/Xcld4Qih65I/AAAAAAAAAJ8/jAk7E8kAAsoazlWabqRkZhLueYkgXPo0wCLcBGAsYHQ/s1600/72x72.png"
+src	"https://1.bp.blogspot.com/-lxdtafg_AcU/Xcld4Qih65I/AAAAAAAAAJ8/jAk7E8kAAsoazlWabqRkZhLueYkgXPo0wCLcBGAsYHQ/s72/72x72.png"
 sizes	"72x72"
 type	"image/png"
 2	
-src	"https://1.bp.blogspot.com/-YD2MqMPwlKk/Xcld4iwHvTI/AAAAAAAAAKA/-Ukq-n2qp_gZ696fbmwh5J-i4bQ56qMOgCLcBGAsYHQ/s1600/96x96.png"
+src	"https://1.bp.blogspot.com/-YD2MqMPwlKk/Xcld4iwHvTI/AAAAAAAAAKA/-Ukq-n2qp_gZ696fbmwh5J-i4bQ56qMOgCLcBGAsYHQ/s96/96x96.png"
 sizes	"96x96"
 type	"image/png"
 3	
-src	"https://1.bp.blogspot.com/-pe_i3EghW48/Xcld2vYZ2mI/AAAAAAAAAJs/i775m1Gm5VQPq0kiEpAhA9L-r0DwsDcYQCLcBGAsYHQ/s1600/144x144.png"
+src	"https://1.bp.blogspot.com/-pe_i3EghW48/Xcld2vYZ2mI/AAAAAAAAAJs/i775m1Gm5VQPq0kiEpAhA9L-r0DwsDcYQCLcBGAsYHQ/s144/144x144.png"
 sizes	"144x144"
 type	"image/png"
 4	
-src	"https://1.bp.blogspot.com/-WeFhzNo4bOw/Xcld2qtPoZI/AAAAAAAAAJo/HTU3-pLcAZY3UrRDX8Qg6dw4nT23udDDwCLcBGAsYHQ/s1600/168x168.png"
+src	"https://1.bp.blogspot.com/-WeFhzNo4bOw/Xcld2qtPoZI/AAAAAAAAAJo/HTU3-pLcAZY3UrRDX8Qg6dw4nT23udDDwCLcBGAsYHQ/s168/168x168.png"
 sizes	"168x168"
 type	"image/png"
 5	
-src	"https://1.bp.blogspot.com/-Ovf0sMHWIn8/Xcld2n4nYGI/AAAAAAAAAJw/jzmY_A99Qvsbh-FTejPta7vOhXoDBhhHACLcBGAsYHQ/s1600/192x192.png"
+src	"https://1.bp.blogspot.com/-Ovf0sMHWIn8/Xcld2n4nYGI/AAAAAAAAAJw/jzmY_A99Qvsbh-FTejPta7vOhXoDBhhHACLcBGAsYHQ/s192/192x192.png"
 sizes	"192x192"
 type	"image/png"
 6	
-src	"https://1.bp.blogspot.com/-Vyh_rZS-qxA/Xcld4FU4JjI/AAAAAAAAAJ4/joZkvEkRl30rrxcB4EGUpmImoQGomwqxACLcBGAsYHQ/s320/512x512.png"
+src	"https://1.bp.blogspot.com/-Vyh_rZS-qxA/Xcld4FU4JjI/AAAAAAAAAJ4/joZkvEkRl30rrxcB4EGUpmImoQGomwqxACLcBGAsYHQ/s512/512x512.png"
 sizes	"512x512"
 type	"image/png"
